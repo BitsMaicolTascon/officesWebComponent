@@ -1,0 +1,39 @@
+{
+    "offices": [
+        {
+            "code": "1001",
+            "description": "Bits Colombia",
+            "address": "CL 69 F # 26 A 41",
+            "indentification": "90010001",
+            "currency": "COP"
+        },
+        {
+            "code": "1002",
+            "description": "Bits Mexico",
+            "address": "CL 100 av 35",
+            "indentification": "9001002",
+            "currency": "MXN"
+        },
+        {
+            "code": "1003",
+            "description": "Bits Argentina",
+            "address": "AV Benos Aires",
+            "indentification": "9001003",
+            "currency": "ARS"
+        },
+        {
+            "code": "1004",
+            "description": "Bits Guatemala",
+            "address": "AV 107 # 14 -27",
+            "indentification": "9001004",
+            "currency": "GTQ"
+        },
+        {
+            "code": "1005",
+            "description": "Bits Estados Unidos",
+            "address": "CRA 25 # 26 - 18",
+            "indentification": "9001005",
+            "currency": "USD"
+        }
+    ]
+}
